@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazal-nasiri&show_icons=true&locale=en" alt="ghazal-nasiri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghazal-nasiri&" alt="ghazal-nasiri" /></p>
+
