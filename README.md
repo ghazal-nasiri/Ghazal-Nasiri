@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghazal Nasiri</h1>
 <h3 align="center">I am a Front-end web developer from IRAN.</h3>
-<img align="right" width="300" src="https://velog.velcdn.com/images/boram_in/post/8ed377eb-70ed-468a-80d2-4ed667fa05ea/1222.gif" alt="ghazal-nasiri">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghazal-nasiri&label=Profile%20views&color=0e75b6&style=flat" alt="ghazal-nasiri" /> </p>
+
+
 
 - 🌱 I’m currently learning **JavaScript,React**
 
