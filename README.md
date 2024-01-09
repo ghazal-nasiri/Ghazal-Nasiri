@@ -5,9 +5,13 @@
 
 - 🌱 I’m currently learning **JavaScript,React**
 
- **9ghazal.nasiri9@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  9ghazal.nasiri9@gmail.com
+</p>
+
 <p align="left">
   www.linkedin.com/in/ghazal-nasiri
 </p>
