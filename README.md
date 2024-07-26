@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ghazal Nasiri</h1>
+<h1 align="center">Hi , I'm Ghazal Nasiri</h1>
 <h3 align="center">I am a Front-end web developer from IRAN.</h3>
 
 
